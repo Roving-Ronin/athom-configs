@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP8266",
+  "ota": {
+    "path": "athom-smart-plug-esp8266/athom-smart-plug-esp8266.ota.bin",
+    "md5": "ee5f061d3240834886b9b0d726aa933b"
+  },
+  "parts": [
+    {
+      "path": "athom-smart-plug-esp8266/athom-smart-plug-esp8266.factory.bin",
+      "offset": 0
+    }
+  ]
+}
